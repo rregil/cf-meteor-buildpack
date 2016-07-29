@@ -1,3 +1,6 @@
+> **NOTE:** This is a fork which forces Meteor release 1.3.3.1 on the installer.
+> If you need the latest Meteor version use the [original repository](https://github.com/cloudfoundry-community/cf-meteor-buildpack).
+
 Cloud Foundry Meteor Buildpack
 ==============================
 
